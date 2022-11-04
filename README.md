@@ -1,4 +1,4 @@
 #deneme3434343
 
 #ödev123
-www.patika.dev
+https://app.patika.dev/raimsel
